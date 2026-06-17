@@ -20,3 +20,11 @@ research/ <br />
 database/ <br />
 development-journal/ <br />
 blog/ <br />
+assets/ <br />
+&nbsp;&nbsp;&nbsp; sketches/ <br />
+&nbsp;&nbsp;&nbsp; screenshots/ <br />
+&nbsp;&nbsp;&nbsp; diagrams/ <br />
+&nbsp;&nbsp;&nbsp; logos/ <br />
+
+
+
