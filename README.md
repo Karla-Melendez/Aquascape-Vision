@@ -15,15 +15,15 @@ Research and product-definition phase.
 
 ## Repository Structure
 
-Vision/ <br />
-Research/ <br />
-Database/ <br />
-Blog/ <br />
 Assets/ <br />
 &nbsp;&nbsp;&nbsp; Diagrams/ <br />
 &nbsp;&nbsp;&nbsp; Logos/ <br />
 &nbsp;&nbsp;&nbsp; Screenshots/ <br />
 &nbsp;&nbsp;&nbsp; Sketches/ <br />
+Blog/ <br />
+Database/ <br />
+Research/ <br />
+Vision/ <br />
 
 
 
