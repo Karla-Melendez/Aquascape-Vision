@@ -1,24 +1,35 @@
 # Roadmap
 
-## Version 1
+## Phase 1
 
 - Tank designer
 - Hardscape placement
-- Plant library
-- Save layouts
+- Plant placement
+- Plant knowledge base
+- Save and compare layouts
 
-## Version 2
+## Phase 2
 
-- Growth simulation
+- Growth simulation over time
+- Plant quantity estimator
+- Plant compatibility and shading warnings
+- Existing tank scan
+- Digital redesign tools
 - Cost estimation
-- Plant compatibility
 
-## Version 3
+## Phase 3
 
-- AR preview
+- AR preview inside the actual aquarium
+- AR room placement
+- Cost estimation
+- Shopping integration
 
-## Version 4+
+## Future Exploration
 
-- Livestock ecosystem modeling
-- Sunlight simulation
-- Retail integrations
+- Livestock ecosystem modelling
+- Schooling fish analysis
+- Shrimp habitat recommendations
+- Snail population forecasting
+- Seasonal sunlight simulation
+- Geographic and climate modelling
+- AI aquascaping coach
